@@ -3,7 +3,18 @@ entries:
   helm-ocean-market:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-03-28T11:21:51.248298+01:00
+    created: 2019-03-29T10:45:30.556615+01:00
+    description: A Helm chart for deploying the components to deploy a Market over
+      the Ocean Protocol blockchain network (https://oceanprotocol.com) on Kubernetes
+    digest: bc6f3cce1009c40fe6c08931516cf66c583d12fca65fb17f6eb56fc18756393a
+    icon: https://oceanprotocol.com/static/media/logo.75e257aa.png
+    name: helm-ocean-market
+    urls:
+    - helm-ocean-market/helm-ocean-market-0.4.2.tgz
+    version: 0.4.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-03-29T10:45:30.555389+01:00
     description: A Helm chart for deploying the components to deploy a Market over
       the Ocean Protocol blockchain network (https://oceanprotocol.com) on Kubernetes
     digest: 13f86ba28c670da72557bb691fc154e4cb62f50dc5143f82ed06bb9154a690eb
@@ -12,4 +23,4 @@ entries:
     urls:
     - helm-ocean-market/helm-ocean-market-0.4.1.tgz
     version: 0.4.1
-generated: 2019-03-28T11:21:51.24561+01:00
+generated: 2019-03-29T10:45:30.553901+01:00
